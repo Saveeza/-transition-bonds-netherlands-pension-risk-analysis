@@ -1,0 +1,27 @@
+📁 Notebooks
+This folder contains all the main analysis files used in the project on Dutch pension funds and transition bond credibility. The notebooks include the data models, scoring methods, and risk analysis used to assess EU Taxonomy alignment, KPI disclosure quality, and stranded asset exposure.
+
+These files are built from real reports, SFDR templates, and sustainability disclosures published by Dutch pension funds between 2020 and 2023.
+---
+
+Contents
+
+| File                                | Description                                                                                                 |
+| ----------------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| `taxonomy_alignment_analysis.ipynb` | EU Taxonomy scoring and classification of bond allocations. Includes visual breakdowns by alignment status. |
+| `kpi_verification_model.ipynb`      | Assessment of KPI disclosures, showing how many are externally verified versus self-reported.               |
+| `scenario_risk_model.ipynb`         | Financial risk modeling under future EU taxonomy changes. Includes sectoral exposure and heatmaps.          |
+| `taxonomy_scoring_model.xlsx`       | Excel-based formula sheet used for manual scoring and cross-checking taxonomy data.                         |
+
+---
+
+Tools Used
+Python (pandas, matplotlib, seaborn)
+
+Excel (pivot tables, scoring formulas)
+
+tabula-py for PDF data extraction
+---
+
+Note
+The raw data used in these notebooks comes from over 1,000 pages of pension fund reports. Full summaries are available in the data/ folder, and the findings are presented in the published research article.
