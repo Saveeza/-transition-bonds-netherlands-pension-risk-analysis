@@ -1,0 +1,15 @@
+# 📊 EU Taxonomy Scoring Model for Transition Bonds
+
+## Objective
+To assess the EU Taxonomy alignment of transition bonds held by major Dutch pension funds (ABP, PFZW, PME, PMT) using a custom-built scoring framework.
+
+## Overview
+This notebook cleans, classifies, and scores bond-level sustainability data extracted from public pension fund disclosures and SFDR templates. It applies alignment thresholds and scoring logic based on key EU Taxonomy metrics.
+
+## Tools & Methods
+- Python (pandas, numpy, tabula-py)
+- Excel-based manual verification
+- Custom scoring rules for alignment level: Fully, Partially, Non-Aligned
+- Output used in visualizations and fund-level comparisons
+
+➡️ Outputs: Alignment table, scoring summary, feed-in data for heatmaps and stranded asset estimates.
