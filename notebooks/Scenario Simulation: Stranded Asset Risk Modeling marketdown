@@ -1,0 +1,22 @@
+{
+ "cell_type": "markdown",
+ "metadata": {},
+ "source": [
+  "# 🔥 Scenario Simulation: Stranded Asset Risk Modeling\n",
+  "\n",
+  "## Objective  \n",
+  "To estimate financial risk exposure of Dutch pension funds under potential EU Taxonomy revisions that exclude gas and aviation sectors.\n",
+  "\n",
+  "## Overview  \n",
+  "This notebook performs:\n",
+  "- Sectoral mapping of bond portfolios\n",
+  "- Stress testing under exclusion scenarios\n",
+  "- Quantification of at-risk investments (stranded asset estimates)\n",
+  "- Heatmap generation based on fund and sector\n",
+  "\n",
+  "## Output  \n",
+  "- Figure 4: Heatmap of Sectoral Risk Exposure\n",
+  "- €2.1 billion risk estimate used in conclusions\n",
+  "- Basis for policy recommendations"
+ ]
+}
