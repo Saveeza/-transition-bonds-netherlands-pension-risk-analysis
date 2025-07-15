@@ -1,0 +1,20 @@
+{
+ "cell_type": "markdown",
+ "metadata": {},
+ "source": [
+  "# 🧮 Sectoral Exposure Heatmap of Transition Bond Holdings\n",
+  "\n",
+  "## Objective  \n",
+  "To visualize how exposed each Dutch pension fund is to transition risks, categorized by high-emission sectors like energy, industrials, and aviation.\n",
+  "\n",
+  "## Overview  \n",
+  "This notebook:\n",
+  "- Combines fund allocation data by sector\n",
+  "- Structures a matrix for visual heatmap creation\n",
+  "- Helps identify funds with higher carbon intensity exposure\n",
+  "\n",
+  "## Output  \n",
+  "- Table 2: Sectoral Exposure by Fund (€ millions)\n",
+  "- Used in visual dashboards and heatmap plots"
+ ]
+}
