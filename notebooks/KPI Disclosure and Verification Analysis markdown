@@ -1,0 +1,14 @@
+# 🔍 KPI Disclosure and Verification Analysis
+
+## Objective
+To evaluate the credibility and auditability of Key Performance Indicators (KPIs) used by transition bond issuers, based on their alignment with science-based frameworks and external assurance.
+
+## Overview
+This notebook categorizes each bond's KPIs as externally verified, internally developed, or untraceable. It identifies systemic verification gaps in ESG disclosures and models the distribution of credible vs. non-credible reporting.
+
+## Tools & Methods
+- Manual classification in Excel
+- Python for grouping, pivoting, and heatmap generation
+- Classification logic based on third-party validation, CAPEX timelines, and KPI relevance
+
+➡️ Outputs: KPI verification heatmap by issuer and fund, credibility ratio charts.
