@@ -4,6 +4,9 @@
 ### 📊 A Deep-Dive into ESG Risk, Taxonomy Scoring, and Sustainable Finance Data Integrity
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/saveeza/transition-bonds-netherlands-pension-risk-analysis/HEAD)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16148035.svg)](https://doi.org/10.5281/zenodo.16148035)
+
+
 
 ---
 
@@ -122,6 +125,13 @@ Offline or academic reference:
 
 ---
 
+## 📚 How to Cite
+
+Aziz, S. (2025). *Saveeza/-transition-bonds-netherlands-pension-risk-analysis: Initial Zenodo Release — Pension Funds and the Credibility Challenge of Transition Bonds (Netherlands) (v1.0)*. Zenodo. https://doi.org/10.5281/zenodo.16148035
+
+
+---
+
 ## ✅ Project Status
 
 - [x] Article completed and peer-reviewed
@@ -138,7 +148,7 @@ Offline or academic reference:
 
 ## About the Author
 
-Sustainable finance data analyst focused on ESG taxonomy, climate policy, and high-complexity financial analysis in support of Europe's Green Deal. Experienced in Python, Excel, and policy-relevant sustainability modeling.
+Saveeza Aziz is a sustainable finance data analyst focused on ESG taxonomy, climate policy, and high-complexity financial analysis in support of Europe's Green Deal. Experienced in Python, Excel, and policy-relevant sustainability modeling.
 
 ---
 
